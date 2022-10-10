@@ -9,3 +9,6 @@
 4. atspausdinam konsoleje savo megstamiausio skaiciau is dienos sudeti
 
 5. atspausdinam konsoleje naudodami kintamuosius "as esu John. noreciau keliausi i Jamaika. Mano megstamiausias skaicius yra 777"
+
+6. sukurti 4 skaicius kintamuosius
+7. apskaiciuoti ju vidurki ir priskirti kintamajam avg

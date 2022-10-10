@@ -1,9 +1,16 @@
 'use strict';
 console.log('uzd1 failas');
 // 1. susikurti kintamuosius vardas, salis, megstamiausiasSkaicius, megstamiausia savaites diena (skaiciais 1-7)
+let vardas = 'Jane';
+let salis = 'Malaizija';
+let megstamiausiasSkaicius = 77;
+let megstSavDiena = 3;
+let arVairuojuMasina = true;
 
 // 2. isvedam i konsole visus savo kintamiuosiu atskirai
-
+console.log('cia yra vardas:', vardas);
+console.log('salis:', salis);
+console.log('megstamiausiasSkaicius:', megstamiausiasSkaicius);
 // 3. atspausdinam konsoleje savo megstamiausio skaiciau ir dienos daugyba
 
 // 4. atspausdinam konsoleje savo megstamiausio skaiciau is dienos sudeti
