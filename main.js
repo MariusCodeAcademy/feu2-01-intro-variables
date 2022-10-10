@@ -38,3 +38,8 @@ let sentenceBacktic = `The ${person} ${action} ${time}. Yeyy!`;
 
 console.log(sentence);
 console.log(sentenceBacktic);
+
+// nusitaikyti i el su id 'result'
+const resultEl = document.getElementById('result');
+/// ikelti teksta
+resultEl.textContent = sentenceBacktic;

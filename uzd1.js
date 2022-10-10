@@ -1,4 +1,5 @@
 'use strict';
+console.log('uzd1 failas');
 // 1. susikurti kintamuosius vardas, salis, megstamiausiasSkaicius, megstamiausia savaites diena (skaiciais 1-7)
 
 // 2. isvedam i konsole visus savo kintamiuosiu atskirai
