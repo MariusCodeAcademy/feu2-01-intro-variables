@@ -17,3 +17,6 @@ console.log('rezultatas', rezultatas);
 // 4. atspausdinam konsoleje savo megstamiausio skaiciau is dienos sudeti
 
 // 5. atspausdinam konsoleje naudodami kintamuosius "as esu John. noreciau keliausi i Jamaika. Mano megstamiausias skaicius yra 777"
+
+console.log('typeof true', typeof true);
+console.log('typeof labas rytas', typeof 'labas rytas');
