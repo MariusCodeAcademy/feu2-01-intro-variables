@@ -11,4 +11,7 @@
 5. atspausdinam konsoleje naudodami kintamuosius "as esu John. noreciau keliausi i Jamaika. Mano megstamiausias skaicius yra 777"
 
 6. sukurti 4 skaicius kintamuosius
-7. apskaiciuoti ju vidurki ir priskirti kintamajam avg
+   
+7. apskaiciuoti ju vidurki ir priskirti kintamajam avg.
+
+8. sukurti nauja faila room.js. Jame susikurti 3 kintamuosius kambario auksciui, plociui ir gyliui. panaudojant kintamuosius isvesti kambario turi, sienu plota, grindu plota, perimetra.
