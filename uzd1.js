@@ -12,7 +12,8 @@ console.log('cia yra vardas:', vardas);
 console.log('salis:', salis);
 console.log('megstamiausiasSkaicius:', megstamiausiasSkaicius);
 // 3. atspausdinam konsoleje savo megstamiausio skaiciau ir dienos daugyba
-
+let rezultatas = megstSavDiena * megstamiausiasSkaicius;
+console.log('rezultatas', rezultatas);
 // 4. atspausdinam konsoleje savo megstamiausio skaiciau is dienos sudeti
 
 // 5. atspausdinam konsoleje naudodami kintamuosius "as esu John. noreciau keliausi i Jamaika. Mano megstamiausias skaicius yra 777"
